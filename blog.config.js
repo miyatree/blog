@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '000777',
+  title: 'BLOG.',
   author: 'Eertayim',
   email: 'hi@000777.xyz',
   link: 'https://blog.000777.xyz',
@@ -9,7 +9,7 @@ const BLOG = {
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#18181B', // use hex value, don't forget '#'
+  darkBackground: '#0a0a0a', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2024, // If leave this empty, current year will be used.
   postsPerPage: 7,
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/0xWaltz',
   seo: {
-    keywords: ['Blog', 'Indie-Hacker', 'Indie'],
+    keywords: ['Blog', 'China-Indie-Hacker', 'China-Digital-Marketing', 'China-AI-Start-Up', 'China-market-consulting'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
