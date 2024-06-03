@@ -1,9 +1,9 @@
 const BLOG = {
   title: 'BLOG.',
-  author: 'Eertayim',
+  author: 'ZE',
   email: 'hi@000777.xyz',
   link: 'https://blog.000777.xyz',
-  description: 'Eertayim personal Blog in 000777.xyz.',
+  description: 'ZE personal Blog in 000777.xyz.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
